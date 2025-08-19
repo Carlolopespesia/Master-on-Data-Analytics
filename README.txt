@@ -1,3 +1,0 @@
-## HOLAS HAHAH
-
-Soy Carlos. 
