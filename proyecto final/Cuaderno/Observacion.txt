@@ -1,0 +1,1 @@
+En este directorio estan los datos depurados duplicadoos, ya que dependiendo del entorno de ejecución (pc local o google collab) se crea en un sitio u otro
